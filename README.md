@@ -187,7 +187,7 @@ It's possible to install this project to any platform with a linux-distribution.
  `cd hometop_HT3/HT3`  
 
 - Call the installaton-script:  
- `ht_project_setup.sh`  
+ `./ht_project_setup.sh`  
 
 ### Postconditions:
 
